@@ -1,0 +1,9 @@
+venvHRM/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.env.*
+.DS_Store
+data/
+outputs/
